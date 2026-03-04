@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=850&height=110&lines=Hey+%F0%9F%91%8B+I%27m+MD+Danish;Product+Engineer+%C2%B7+Full-Stack+%C2%B7+AI+%C2%B7+Security;I+ship+things+that+work+under+pressure.)](https://github.com/MDDANISH2001)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=1050&height=110&lines=Hey+%F0%9F%91%8B+I%27m+MD+Danish;Product+Engineer+%C2%B7+Full-Stack+%C2%B7+AI+%C2%B7+Security;I+ship+things+that+work+under+pressure.)](https://github.com/MDDANISH2001)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
