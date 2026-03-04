@@ -194,7 +194,7 @@ Give me the repo, I'll figure it out.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-danish1931khan%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:danish1931khan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Danish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/mddanish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Danish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/md-danish-8366b4223/)
 [![Portfolio](https://img.shields.io/badge/Work-tagglabs.in-00FF41?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d)](https://tagglabs.in)
 
 </div>
