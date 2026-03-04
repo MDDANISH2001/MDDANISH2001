@@ -1,181 +1,88 @@
-# Terminal / CLI README — MD Danish
-# Replace MDDANISH2001 with your GitHub username everywhere
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=500&color=F8F8F2&background=282A36&center=true&vCenter=true&multiline=true&width=700&height=130&lines=%5Bguest%40github+~%5D%24+curl+-s+https%3A%2F%2Fgithub.com%2FMDDANISH2001%2Fprofile;Fetching+engineer+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;Done.+Rendering+MD+Danish...)](https://github.com/MDDANISH2001)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=24&duration=3500&pause=1200&color=E8845A&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I%27m+Danish.+%F0%9F%91%8B;I+build+things+that+work+when+it+matters.)](https://github.com/MDDANISH2001)
 
 </div>
 
 ---
 
-```bash
-[guest@github ~]$ ./profile --user MDDANISH2001 --verbose
-```
+### A bit about me
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   USER       :  MD Danish                                               │
-│   ROLE       :  Product Engineer · Full-Stack · AI · Security           │
-│   LOCATION   :  India  [Remote OK] [Relocation OK]                      │
-│   STATUS     :  ACTIVE — shipping in production                         │
-│   CONTACT    :  danish1931khan@gmail.com                                │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+I'm a software engineer based in India who got into this because I genuinely love building things — not for the aesthetic of being a developer, but because there's something deeply satisfying about writing code that solves a real problem for a real person.
+
+Over the last year, I've been working at **Tagglabs** where I've shipped 15+ production systems — interactive installs, live event platforms, client-facing web apps — often with a brief that arrived the day before launch. The one that still gets me: I delivered a **multi-surface projection wall system** (4 walls + floor) in **3 days** against a 1-month estimate. It worked. Live. In front of hundreds of people.
+
+That experience shaped how I think about engineering. Correctness first. Speed when it matters. Own the outcome, not just the code.
 
 ---
 
-```bash
-[guest@github ~]$ cat /etc/danish/philosophy.conf
-```
+### What I work with
 
-```ini
-[core]
-motto          = "If I know the language, I can work with any tech."
-approach       = own-the-outcome
-preferred-env  = high-pressure, incomplete-requirements, real-users
+I started with the MERN stack and grew from there. Today I reach for whatever the problem needs:
 
-[delivery]
-highlight      = Shipped 4-wall projection system in 3 days (estimate: 1 month)
-systems        = 15+ production deployments at Tagglabs
-style          = architecture → build → deploy → support → iterate
+- **Frontend** — React, TypeScript, Tailwind CSS, Framer Motion, ShadCN UI
+- **Backend** — Node.js, Express, MongoDB, REST APIs
+- **Security** — libsodium (E2E encryption), JWT, OAuth, rate limiting, API hardening
+- **AI / ML** — HuggingFace models, computer vision, face-swap inference — all run locally
+- **Languages** — JavaScript, TypeScript, Python, C++
 
-[mindset]
-on-new-tech    = figure-it-out
-on-deadlines   = ship-correct-first, optimise-after
-on-complexity  = break-it-down, own-the-risk
-```
+One thing I've learned: if I know the language a codebase is written in, I can figure out the rest. I've run models I'd never used before, built systems outside my comfort zone, and shipped them on deadline. That's the approach.
 
 ---
 
-```bash
-[guest@github ~]$ danish --list-skills --format=tree
-```
+### Things I've built
 
-```
-skills/
-├── frontend/
-│   ├── React                ████████████  expert
-│   ├── TypeScript           ████████████  expert
-│   ├── JavaScript           ████████████  expert
-│   ├── Tailwind CSS         ███████████░  strong
-│   ├── Framer Motion        █████████░░░  solid
-│   └── ShadCN UI            █████████░░░  solid
-│
-├── backend/
-│   ├── Node.js              ████████████  expert
-│   ├── Express.js           ████████████  expert
-│   ├── MongoDB              ██████████░░  strong
-│   └── REST APIs            ████████████  expert
-│
-├── ai_ml/
-│   ├── HuggingFace          ████████░░░░  working
-│   ├── Computer Vision      ███████░░░░░  working
-│   ├── Local LLM inference  ████████░░░░  working
-│   └── Model fine-tuning    ██████░░░░░░  learning
-│
-├── security/
-│   ├── E2E Encryption       █████████░░░  solid
-│   ├── libsodium            ████████░░░░  solid
-│   ├── JWT / OAuth          ████████████  expert
-│   ├── Rate limiting        ███████████░  strong
-│   └── OWASP awareness      ███████░░░░░  learning
-│
-└── tools/
-    ├── Git / GitHub         ████████████  expert
-    ├── Linux / WSL          ██████████░░  strong
-    ├── Postman              ████████████  expert
-    └── C++ / Python         ███████░░░░░  working
-```
+**🔐 End-to-End Encrypted Chat**
+Not a tutorial project. I designed the cryptographic flow assuming key compromise — modelling blast radius, making deliberate tradeoffs between security guarantees and complexity. Built with TypeScript, React, Node.js, and libsodium. Correctness over features.
+
+**🌐 Tagglabs Official Website** — [tagglabs.in](https://tagglabs.in)
+Built and shipped the company's public site from scratch. Worked directly with stakeholders, optimised for performance, SEO, and every screen size.
+
+**🎨 Emotion Design** — [emotion.design](https://emotion.design)
+Full brand website for a client, with smooth animated UI and a component architecture built to outlast the project timeline.
+
+**🤖 AI Experiments**
+I've fine-tuned models, run face-swap pipelines locally from HuggingFace, and experimented with computer vision inference. Currently exploring AI agents and LLM tooling — the autonomous stuff.
 
 ---
 
-```bash
-[guest@github ~]$ ls -la ~/projects/ --sort=impact
-```
+### What I'm exploring right now
 
-```
-drwxr-xr-x  e2e-encrypted-chat/
-│  desc    : Cryptographic messaging — threat modelled from key compromise
-│  stack   : TypeScript · React · Node.js · libsodium · MongoDB
-│  focus   : blast-radius-minimisation, correctness > features
-│
-drwxr-xr-x  tagglabs-website/                           [LIVE: tagglabs.in]
-│  desc    : Company site built end-to-end — architecture to deployment
-│  stack   : React · TypeScript · Tailwind CSS
-│  focus   : SEO, performance, cross-device reliability
-│
-drwxr-xr-x  emotion-design/                          [LIVE: emotion.design]
-│  desc    : Full brand website under live client constraints
-│  stack   : ReactJS · Node.js · Express · Framer Motion · ShadCN
-│  focus   : animated UI, reusable components, maintainability
-│
-drwxr-xr-x  ai-experiments/
-│  desc    : Local inference — face-swap, CV models, HuggingFace pipelines
-│  stack   : Python · HuggingFace · OpenCV
-│  focus   : run-anything-locally, model adaptation
-```
+I'm actively building in three directions:
+
+- **AI agents & LLM workflows** — how to make models actually do things, not just answer questions
+- **Cybersecurity** — going deeper into offensive/defensive security, pen testing basics, API hardening
+- **Open source** — looking for meaningful projects to contribute to, not just star
 
 ---
 
-```bash
-[guest@github ~]$ ps aux | grep "currently-running"
-```
-
-```
-danish    1001  AI agents & autonomous LLM workflows      [ACTIVE]
-danish    1002  Cybersecurity — offensive + defensive      [ACTIVE]
-danish    1003  Open source contributions                  [SEARCHING]
-danish    1004  Tutorial hell                              [KILLED]
-danish    1005  Waiting for perfect requirements           [KILLED]
-```
-
----
-
-```bash
-[guest@github ~]$ fetch --stats MDDANISH2001
-```
+### Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MDDANISH2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282a36"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDDANISH2001&layout=compact&theme=dracula&hide_border=true&bg_color=282a36"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MDDANISH2001&theme=dracula&hide_border=true&background=282a36)](https://github.com/MDDANISH2001)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MDDANISH2001&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDDANISH2001&layout=compact&theme=gruvbox&hide_border=true"/>
 
 </div>
 
 ---
 
-```bash
-[guest@github ~]$ danish --contact --open-to-work
-```
+### Let's talk
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  OPEN TO  :  Remote roles globally · Relocation (visa sponsorship req) │
-│  ROLES    :  Frontend · Full-Stack · Product Engineer                   │
-│  EMAIL    :  danish1931khan@gmail.com                                   │
-│  LINKEDIN :  linkedin.com/in/mddanish                                   │
-│  GITHUB   :  github.com/MDDANISH2001                                    │
-│                                                                         │
-│  > If you're building something hard, I'll figure out how to ship it.  │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+I'm always open to interesting projects, early-stage startups, and conversations about hard problems.
+
+📬 **danish1931khan@gmail.com**
+🔗 [linkedin.com/in/mddanish](https://linkedin.com/in/mddanish)
+📍 India — remote-first, open to relocation (visa sponsorship needed)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MDDANISH2001&color=bd93f9&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=MDDANISH2001&color=E8845A&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-```bash
-[guest@github ~]$ exit
-logout
-```
+<div align="center">
+<sub>If you're building something hard, reach out. I'll figure out how to make it work.</sub>
+</div>
