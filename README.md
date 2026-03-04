@@ -1,223 +1,181 @@
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║         MD DANISH — GitHub Profile README                    ║ -->
-<!-- ║         Dark / Minimal / Hacker Aesthetic                    ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+# Terminal / CLI README — MD Danish
+# Replace MDDANISH2001 with your GitHub username everywhere
 
 <div align="center">
 
-<!-- Typing SVG — animated terminal intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=md+danish+%40+MDDANISH2001+~+%24+whoami;Product+Engineer+%7C+Full-Stack+%7C+AI+%7C+Security)](https://github.com/MDDANISH2001)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=500&color=F8F8F2&background=282A36&center=true&vCenter=true&multiline=true&width=700&height=130&lines=%5Bguest%40github+~%5D%24+curl+-s+https%3A%2F%2Fgithub.com%2FMDDANISH2001%2Fprofile;Fetching+engineer+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;Done.+Rendering+MD+Danish...)](https://github.com/MDDANISH2001)
 
 </div>
 
 ---
 
-<div align="center">
-
-```
-╔─────────────────────────────────────────────────────────────────╗
-│  > initializing profile...                                      │
-│  > loading: frontend · backend · AI · cryptography · ops       │
-│  > status: SHIPPING IN PRODUCTION                               │
-╚─────────────────────────────────────────────────────────────────╝
+```bash
+[guest@github ~]$ ./profile --user MDDANISH2001 --verbose
 ```
 
-</div>
-
-<br/>
-
-## `$ cat about.txt`
-
-```yaml
-name       : MD Danish
-role       : Product Engineer — Frontend / Full-Stack / AI
-location   : India (Remote-first · Open to relocation)
-available  : true
-motto      : "If I know the language, I can work with any tech."
-
-stack      :
-  frontend : [React, TypeScript, Tailwind CSS, Framer Motion, ShadCN]
-  backend  : [Node.js, Express, MongoDB, REST APIs]
-  ai_ml    : [HuggingFace, local LLMs, Computer Vision, Face-Swap models]
-  security : [libsodium, JWT, OAuth, E2E Encryption, Rate Limiting, OWASP]
-  tools    : [Git, Linux, WSL, Postman, VS Code]
-
-currently  :
-  - exploring : AI agents & LLM tooling
-  - learning  : Cybersecurity (offensive + defensive)
-  - building  : Open Source contributions
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   USER       :  MD Danish                                               │
+│   ROLE       :  Product Engineer · Full-Stack · AI · Security           │
+│   LOCATION   :  India  [Remote OK] [Relocation OK]                      │
+│   STATUS     :  ACTIVE — shipping in production                         │
+│   CONTACT    :  danish1931khan@gmail.com                                │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `$ ls -la experience/`
-
+```bash
+[guest@github ~]$ cat /etc/danish/philosophy.conf
 ```
-drwxr-xr-x  tagglabs/          Software Engineer (Product & Operations)  Jan 2025 → Present
-├── shipped     15+ production systems & live-event deployments
-├── highlight   Projection wall (4 walls + floor) — 3 days vs 1-month estimate
-├── built       Automation tooling for non-technical ops teams
-└── owned       Full delivery: brief → architecture → deploy → support
+
+```ini
+[core]
+motto          = "If I know the language, I can work with any tech."
+approach       = own-the-outcome
+preferred-env  = high-pressure, incomplete-requirements, real-users
+
+[delivery]
+highlight      = Shipped 4-wall projection system in 3 days (estimate: 1 month)
+systems        = 15+ production deployments at Tagglabs
+style          = architecture → build → deploy → support → iterate
+
+[mindset]
+on-new-tech    = figure-it-out
+on-deadlines   = ship-correct-first, optimise-after
+on-complexity  = break-it-down, own-the-risk
 ```
 
 ---
 
-## `$ tree projects/`
+```bash
+[guest@github ~]$ danish --list-skills --format=tree
+```
 
 ```
-projects/
+skills/
+├── frontend/
+│   ├── React                ████████████  expert
+│   ├── TypeScript           ████████████  expert
+│   ├── JavaScript           ████████████  expert
+│   ├── Tailwind CSS         ███████████░  strong
+│   ├── Framer Motion        █████████░░░  solid
+│   └── ShadCN UI            █████████░░░  solid
 │
-├── 🔒 e2e-encrypted-chat/
-│   ├── Cryptographic flows with explicit threat modelling
-│   ├── Key compromise scenarios + blast radius minimisation
-│   └── Stack: TypeScript · React · Node.js · libsodium · MongoDB
+├── backend/
+│   ├── Node.js              ████████████  expert
+│   ├── Express.js           ████████████  expert
+│   ├── MongoDB              ██████████░░  strong
+│   └── REST APIs            ████████████  expert
 │
-├── 🌐 tagglabs-official-website/         [tagglabs.in]
-│   ├── Built end-to-end: architecture → deployment
-│   ├── SEO · performance · cross-device optimisation
-│   └── Stack: React · TypeScript · Tailwind CSS
+├── ai_ml/
+│   ├── HuggingFace          ████████░░░░  working
+│   ├── Computer Vision      ███████░░░░░  working
+│   ├── Local LLM inference  ████████░░░░  working
+│   └── Model fine-tuning    ██████░░░░░░  learning
 │
-├── 🎨 emotion-design-website/            [emotion.design]
-│   ├── Full client-facing brand site under live constraints
-│   ├── Animated UI with reusable component architecture
-│   └── Stack: ReactJS · Node.js · Express · Framer Motion · ShadCN
+├── security/
+│   ├── E2E Encryption       █████████░░░  solid
+│   ├── libsodium            ████████░░░░  solid
+│   ├── JWT / OAuth          ████████████  expert
+│   ├── Rate limiting        ███████████░  strong
+│   └── OWASP awareness      ███████░░░░░  learning
 │
-└── 🤖 ai-experiments/
-    ├── Face-swap model (HuggingFace) — run fully local
-    ├── Computer vision model fine-tuning & inference
-    └── Local LLM experimentation & integration
+└── tools/
+    ├── Git / GitHub         ████████████  expert
+    ├── Linux / WSL          ██████████░░  strong
+    ├── Postman              ████████████  expert
+    └── C++ / Python         ███████░░░░░  working
 ```
 
 ---
 
-## `$ cat skills.json`
+```bash
+[guest@github ~]$ ls -la ~/projects/ --sort=impact
+```
+
+```
+drwxr-xr-x  e2e-encrypted-chat/
+│  desc    : Cryptographic messaging — threat modelled from key compromise
+│  stack   : TypeScript · React · Node.js · libsodium · MongoDB
+│  focus   : blast-radius-minimisation, correctness > features
+│
+drwxr-xr-x  tagglabs-website/                           [LIVE: tagglabs.in]
+│  desc    : Company site built end-to-end — architecture to deployment
+│  stack   : React · TypeScript · Tailwind CSS
+│  focus   : SEO, performance, cross-device reliability
+│
+drwxr-xr-x  emotion-design/                          [LIVE: emotion.design]
+│  desc    : Full brand website under live client constraints
+│  stack   : ReactJS · Node.js · Express · Framer Motion · ShadCN
+│  focus   : animated UI, reusable components, maintainability
+│
+drwxr-xr-x  ai-experiments/
+│  desc    : Local inference — face-swap, CV models, HuggingFace pipelines
+│  stack   : Python · HuggingFace · OpenCV
+│  focus   : run-anything-locally, model adaptation
+```
+
+---
+
+```bash
+[guest@github ~]$ ps aux | grep "currently-running"
+```
+
+```
+danish    1001  AI agents & autonomous LLM workflows      [ACTIVE]
+danish    1002  Cybersecurity — offensive + defensive      [ACTIVE]
+danish    1003  Open source contributions                  [SEARCHING]
+danish    1004  Tutorial hell                              [KILLED]
+danish    1005  Waiting for perfect requirements           [KILLED]
+```
+
+---
+
+```bash
+[guest@github ~]$ fetch --stats MDDANISH2001
+```
 
 <div align="center">
 
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-%23black.svg?style=for-the-badge&logo=framer&logoColor=white)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MDDANISH2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282a36"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDDANISH2001&layout=compact&theme=dracula&hide_border=true&bg_color=282a36"/>
 
-<!-- Backend -->
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<!-- AI / ML -->
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-<!-- Security -->
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MDDANISH2001&theme=dracula&hide_border=true&background=282a36)](https://github.com/MDDANISH2001)
 
 </div>
 
 ---
 
-## `$ ./stats.sh`
+```bash
+[guest@github ~]$ danish --contact --open-to-work
+```
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│  OPEN TO  :  Remote roles globally · Relocation (visa sponsorship req) │
+│  ROLES    :  Frontend · Full-Stack · Product Engineer                   │
+│  EMAIL    :  danish1931khan@gmail.com                                   │
+│  LINKEDIN :  linkedin.com/in/mddanish                                   │
+│  GITHUB   :  github.com/MDDANISH2001                                    │
+│                                                                         │
+│  > If you're building something hard, I'll figure out how to ship it.  │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDDANISH2001&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDDANISH2001&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MDDANISH2001&theme=terminal&hide_border=true&background=0d0d0d&stroke=00FF41&ring=00FF41&fire=ff6b35&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://github.com/MDDANISH2001)
-
-</div>
-
----
-
-## `$ cat security_philosophy.txt`
-
-```
-┌─ Threat Modelling ──────────────────────────────────────────────────┐
-│                                                                      │
-│  "Assume breach. Design for blast radius minimisation."             │
-│                                                                      │
-│  ✓ E2E encryption with explicit key compromise scenarios            │
-│  ✓ JWT / OAuth / API key auth — know the attack surface of each     │
-│  ✓ Rate limiting & input validation as first-class concerns         │
-│  ✓ OWASP-aware API design                                           │
-│  ✓ Correctness over features when crypto is involved                │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `$ cat ai_work.txt`
-
-```python
-# What I've actually done with AI/ML:
-
-experiments = {
-    "computer_vision"  : "Fine-tuned & ran CV models locally",
-    "face_swap"        : "HuggingFace model — full local inference pipeline",
-    "model_adaptation" : "Can work with any model if I know the language",
-    "current_focus"    : ["AI agents", "LLM tooling", "local inference"],
-}
-
-philosophy = """
-I don't need a course to use a new model.
-Give me the repo, I'll figure it out.
-"""
-```
-
----
-
-## `$ cat currently_building.txt`
-
-```diff
-+ Exploring     AI agents & autonomous LLM workflows
-+ Learning      Offensive & defensive cybersecurity
-+ Contributing  Open source — actively looking for projects to contribute to
-+ Building      Tools that non-technical people can actually use
-- Not doing     Tutorial hell
-- Not doing     Waiting for perfect requirements
-```
-
----
-
-## `$ ./connect.sh`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-danish1931khan%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:danish1931khan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Danish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/md-danish-8366b4223/)
-[![Portfolio](https://img.shields.io/badge/Work-tagglabs.in-00FF41?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d)](https://tagglabs.in)
+![Profile Views](https://komarev.com/ghpvc/?username=MDDANISH2001&color=bd93f9&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-<div align="center">
-
-<!-- Snake game contribution graph -->
-![Snake animation](https://raw.githubusercontent.com/MDDANISH2001/MDDANISH2001/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-
+```bash
+[guest@github ~]$ exit
+logout
 ```
-╔──────────────────────────────────────────────────────╗
-│  > if you're building something hard,                │
-│  > I'll figure out how to make it work.              │
-│  > — MD Danish                                       │
-╚──────────────────────────────────────────────────────╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=MDDANISH2001&color=00FF41&style=flat-square&label=profile+views)
-
-</div>
