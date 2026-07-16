@@ -1,73 +1,72 @@
-<!-- HEADER BANNER -->
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=1050&height=110&lines=Hey+%F0%9F%91%8B+I%27m+MD+Danish;Product+Engineer+%C2%B7+Full-Stack+%C2%B7+AI+%C2%B7+Security;I+ship+things+that+work+under+pressure.)](https://github.com/MDDANISH2001)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=MD%20Danish&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=32&desc=Product%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Security&descSize=18&descAlignY=55" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=900&height=55&lines=I+ship+things+that+work+under+pressure.;I+turn+walls+into+touchscreens+with+lasers.;I+threat-model+before+I+write+the+first+line.;4-wall+projection+system+%E2%80%94+shipped+in+3+days.)](https://github.com/MDDANISH2001)
+
+<a href="mailto:danish1931khan@gmail.com"><img src="https://img.shields.io/badge/💼_Open_to_Opportunities-22c55e?style=for-the-badge"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=MDDANISH2001&color=6366f1&style=for-the-badge&label=Visitors"/>
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-<img align="right" width="340" src="https://github-readme-activity-graph.vercel.app/graph?username=MDDANISH2001&bg_color=0f0f1a&color=6366f1&line=818cf8&point=ffffff&area=true&hide_border=true"/>
+## 🧠 &nbsp;About Me
 
-- 🚀 &nbsp; Product-focused engineer — I own delivery, not just tickets
-- ⚡ &nbsp; Shipped a **4-wall projection system in 3 days** (est. 1 month)
-- 🎯 &nbsp; Turned a **4.5 m wall into a giant multi-touch surface** with a LiDAR + WebGL
-- 🔐 &nbsp; Built E2E encrypted chat with explicit **cryptographic threat modelling**
-- 🤖 &nbsp; Run AI/ML models locally — HuggingFace, CV, face-swap inference
-- 🛡️ &nbsp; API security: JWT · OAuth · libsodium · Rate limiting · OWASP
-- 🌍 &nbsp; India-based · Remote-first · Open to relocation
-- 📬 &nbsp; **danish1931khan@gmail.com**
+<img align="right" width="360" src="https://github-readme-activity-graph.vercel.app/graph?username=MDDANISH2001&bg_color=0f0f1a&color=6366f1&line=818cf8&point=ffffff&area=true&hide_border=true&radius=16"/>
+
+- 🚀 &nbsp;Product-focused engineer — **I own delivery, not just tickets**
+- ⚡ &nbsp;Shipped a **4-wall projection system in 3 days** (est. 1 month)
+- 🎯 &nbsp;Turned a **4.5 m wall into a multi-touch surface** — LiDAR + WebGL
+- 🔐 &nbsp;Built E2E encrypted chat with explicit **cryptographic threat modelling**
+- 🤖 &nbsp;Run AI/ML models locally — HuggingFace, CV, face-swap inference
+- 🛡️ &nbsp;API security: JWT · OAuth · libsodium · Rate limiting · OWASP
+- 🌍 &nbsp;India-based · Remote-first · Open to relocation
+- 📬 &nbsp;**danish1931khan@gmail.com**
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=4" width="100%"/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════ TECH ═══════════════════════ -->
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-![ShadcnUI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+## 🛠️ &nbsp;Tech Stack
 
-### Real-Time Graphics & Hardware
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL2-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL_Shaders-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![LiDAR](https://img.shields.io/badge/LiDAR-e11d48?style=for-the-badge)
+<div align="center">
 
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,mongodb,py,opencv,threejs,git,linux,postman&perline=13" alt="core stack"/>
 
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<br/><br/>
 
-### Security & Tools
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<sub><b>…plus the specialty toolkit</b></sub>
 
----
+<br/>
 
-## 🚀 Projects
+<img src="https://img.shields.io/badge/WebGL2_·_GLSL_Shaders-990000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/LiDAR_·_Hardware_Interfaces-e11d48?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/libsodium_·_JWT_·_OAuth-6366f1?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=4" width="100%"/>
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+
+## 🚀 &nbsp;Projects
 
 <!-- ============================================================
      HOW TO ADD A PROJECT
      Each project is one "block" below: a title row, an optional
      demo GIF/screenshot, 2-3 punchy lines, and badge links.
      Copy the commented TEMPLATE at the bottom of this section,
-     paste it above the divider, fill it in — done.
+     paste it above "### 🌐 More Builds", fill it in — done.
      ============================================================ -->
 
 ### 🌀 LiDAR Interactive Wall
@@ -111,11 +110,11 @@ key-compromise scenarios, and metadata minimisation were design inputs, not afte
 
 ### 🌐 More Builds
 
-| Project | Description | Stack |
-|---|---|---|
-| 🌐 **Tagglabs Website** | Company site built end-to-end — SEO, perf, deployment | React · TypeScript · Tailwind |
-| 🎨 **Emotion Design** | Full brand site with animated UI under live client constraints | React · Framer Motion · ShadCN |
-| 🤖 **AI Experiments** | Face-swap & CV models run locally — full inference pipeline | Python · HuggingFace · OpenCV |
+| Project                 | Description                                                    | Stack                          |
+| ----------------------- | -------------------------------------------------------------- | ------------------------------ |
+| 🌐 **Tagglabs Website** | Company site built end-to-end — SEO, perf, deployment          | React · TypeScript · Tailwind  |
+| 🎨 **Emotion Design**   | Full brand site with animated UI under live client constraints | React · Framer Motion · ShadCN |
+| 🤖 **AI Experiments**   | Face-swap & CV models run locally — full inference pipeline    | Python · HuggingFace · OpenCV  |
 
 <!-- ============================================================
      TEMPLATE — copy from here ▼, paste above "### 🌐 More Builds"
@@ -142,43 +141,68 @@ detail that makes it impressive. Lead with the outcome.
      ▲ copy up to here
      ============================================================ -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=4" width="100%"/>
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDDANISH2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDDANISH2001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MDDANISH2001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="trophies"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MDDANISH2001&theme=tokyonight&hide_border=true)](https://github.com/MDDANISH2001)
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDDANISH2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDDANISH2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f1a"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MDDANISH2001&theme=tokyonight&hide_border=true&background=0f0f1a)](https://github.com/MDDANISH2001)
 
 </div>
 
----
+<!-- ════════ OPTIONAL: contribution snake ════════
+     Needs a tiny GitHub Action in your profile repo — ask me and
+     I'll give you the exact workflow file. Then uncomment:
 
-## 🔭 Currently Exploring
+<div align="center">
+<img src="https://raw.githubusercontent.com/MDDANISH2001/MDDANISH2001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+</div>
+     ═══════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=4" width="100%"/>
+
+<!-- ═══════════════════════ EXPLORING ═══════════════════════ -->
+
+## 🔭 &nbsp;Currently Exploring
 
 <div align="center">
 
-| 🤖 AI Agents & LLM Tooling | 🛡️ Cybersecurity (offensive + defensive) | 🌱 Open Source Contributions |
-|:---:|:---:|:---:|
+|     🤖 AI Agents & LLM Tooling      |  🛡️ Cybersecurity (offensive + defensive)  |       🌱 Open Source Contributions        |
+| :---------------------------------: | :----------------------------------------: | :---------------------------------------: |
 | Building autonomous agent workflows | OWASP · Pen testing basics · API hardening | Looking for OSS projects to contribute to |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=4" width="100%"/>
 
-## 🤝 Let's Connect
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danish1931khan@gmail.com)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mddanish)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDDANISH2001)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MDDANISH2001&color=6366f1&style=for-the-badge&label=Profile+Views)
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=110&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%"/>
